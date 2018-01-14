@@ -1,5 +1,9 @@
 body {
-  margin: 0;
-  padding: 0;
+  margin: 5 px;
+  padding: 5 px;
   font-family: sans-serif;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
 }
